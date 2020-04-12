@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">Notes</string>
+    <string name="note_added">Note added !</string>
+    <string name="enter_note">Please enter note.</string>
+    <string name="date_of_update">Date of update:</string>
+    <string name="enter_informations">Please enter informations.</string>
+    <string name="note_updated">Note updated !</string>
+    <string name="note_deleted">Note deleted !</string>
+    <string name="note_title">Note Title ...</string>
+    <string name="note_hint">Note ...</string>
+    <string name="created_date">Created Date :</string>
+    <string name="notes">Notes</string>
+    <string name="note_title2">Note Title</string>
+    <string name="note"> Note</string>
+    <string name="created_date2">CreatedDate</string>
+    <string name="classwork">Classwork</string>
+    <string name="people">People</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="title">Title</string>
+    <string name="due">Due</string>
+    <string name="no_due_date">No due date</string>
+    <string name="assignment">Assignment</string>
+    <string name="enter_assignment">Enter assignment</string>
+    <string name="assignment_added">Assignment Added</string>
+    <string name="assignment_updated">Assignment Updated</string>
+    <string name="assignment_deleted">Assignment Deleted</string>
+
+</resources>
